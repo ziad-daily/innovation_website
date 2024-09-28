@@ -307,12 +307,12 @@ header
 }
 
 @keyframes fontChange {
-  0%   { font-family: 'Arial', sans-serif; color: #000; }
-  20%  { font-family: 'Courier New', monospace; color: #ED1C24;}
-  40%  { font-family: 'Georgia', serif; color: #43ba7f;}
-  60%  { font-family: 'Verdana', sans-serif; color: #3B566E;}
-  80%  { font-family: 'Times New Roman', serif; color: #43ba7f;}
-  100% { font-family: 'Arial', sans-serif; color: #ecf8f2;}
+  0%   { font-family: 'Arial', sans-serif; }
+  20%  { font-family: 'Courier New', monospace;}
+  40%  { font-family: 'Georgia', serif;  }
+  60%  { font-family: 'Verdana', sans-serif; }
+  80%  { font-family: 'Times New Roman', serif; }
+  100% { font-family: 'Arial', sans-serif; }
 }
 
 .font-changer {
