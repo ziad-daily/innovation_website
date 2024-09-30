@@ -306,21 +306,11 @@ header
   padding-right: 0px;
 }
 
-@keyframes fontChange {
-  0%   { font-family: 'Arial', sans-serif; }
-  20%  { font-family: 'Courier New', monospace;}
-  40%  { font-family: 'Georgia', serif;  }
-  60%  { font-family: 'Verdana', sans-serif; }
-  80%  { font-family: 'Times New Roman', serif; }
-  100% { font-family: 'Arial', sans-serif; }
-}
-
 .font-changer {
-  animation: fontChange 3s infinite;
-  transition: font-family 0.25s;
+  
   font-size: 2.5rem;
   color: whitesmoke;
-  margin-right: 20px;
+  margin-left: 20px;
 }
 
 .header-area .main-nav .nav li a {
